@@ -41,7 +41,7 @@ Currently exploring LLMs, Multi-Agent Systems, and AI-driven business insights.
 
 ---
 
-## 📊 **GitHub Stats** *(optional — add if you want)*
+## 📊 **GitHub Stats**
 
 ![Sathvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathvikashetti&show_icons=true&theme=default)
 
